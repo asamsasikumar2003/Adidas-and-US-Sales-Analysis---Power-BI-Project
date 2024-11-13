@@ -2,6 +2,8 @@
 
 ## Project Overview
 This Power BI project provides an in-depth analysis of Adidas’ sales performance in the US market. Through comprehensive visualizations, we cover metrics like total sales, operating profit, sales trends, and product category performance across regions. The goal of this project is to deliver actionable insights to support strategic decision-making in sales and marketing.
+![image](https://github.com/user-attachments/assets/0f3c3470-aea3-4e1b-a62b-638a46bd7e8f)
+
 
 ## Key Insights
 
